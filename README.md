@@ -11,7 +11,6 @@ This project uses a trained regression model built with TensorFlow to predict ho
 
 - 🔮 **Real-time price prediction** through a user-friendly web interface
 - 📥 **Batch mode prediction** for multiple rows using CSV input
-- 📊 Radar chart comparing user input vs dataset average
 - 📉 Bar chart of top influencing features (based on scaled input values)
 - 🧠 Trained neural network using TensorFlow/Keras
 - ☁️ Fully deployed on Streamlit Cloud
