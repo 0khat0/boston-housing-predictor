@@ -2,6 +2,8 @@
 
 This project uses a trained regression model built with TensorFlow to predict housing prices in Boston based on 13 numeric features such as crime rate, average number of rooms, tax level, and distance to employment centers. It supports both real-time predictions via a web UI and batch predictions through CSV file processing.
 
+Note: This dataset originates from the 1970s and is meant for educational purposes. Predicted values reflect historical prices, not current market rates.
+
 🔗 **Live Web App**  
 [https://boston-housing-predictor-0khat0.streamlit.app](https://boston-housing-predictor-0khat0.streamlit.app)
 
